@@ -1,0 +1,15 @@
+{
+  "name": "raw-example",
+  "version": "1.0.0",
+  "description": "raw",
+  "main": "server.js",
+  "scripts": {
+    "test": "none",
+    "start": "node server.js"
+  },
+  "author": "hyj1991",
+  "license": "MIT",
+  "dependencies": {
+    "restify": "^7.2.1"
+  }
+}
