@@ -8,4 +8,4 @@
 
 ## Coredump 定位问题
 
-2018 10.14 深圳 IMWEB  PPT 以及视频: 尚未开始，ppt 暂时不能上传
+2018 10.14 深圳 IMWEB  PPT 以及视频: [还原故障现场——Coredump 分析定位线上 Node.js 应用异常](https://github.com/hyj1991/talks/blob/master/0x01_%E8%BF%98%E5%8E%9F%E6%95%85%E9%9A%9C%E7%8E%B0%E5%9C%BA%E2%80%94%E2%80%94Coredump%20%E5%88%86%E6%9E%90%E5%AE%9A%E4%BD%8D%E7%BA%BF%E4%B8%8A%20Node.js%20%E5%BA%94%E7%94%A8%E5%BC%82%E5%B8%B8.pdf)
