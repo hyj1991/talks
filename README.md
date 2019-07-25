@@ -9,3 +9,7 @@
 ## Coredump 定位问题
 
 2018 10.14 深圳 IMWEB  PPT 以及视频: [还原故障现场——Coredump 分析定位线上 Node.js 应用异常](https://github.com/hyj1991/talks/blob/master/0x01_%E8%BF%98%E5%8E%9F%E6%95%85%E9%9A%9C%E7%8E%B0%E5%9C%BA%E2%80%94%E2%80%94Coredump%20%E5%88%86%E6%9E%90%E5%AE%9A%E4%BD%8D%E7%BA%BF%E4%B8%8A%20Node.js%20%E5%BA%94%E7%94%A8%E5%BC%82%E5%B8%B8.pdf)
+
+## 性能监控体系
+
+2019 07.06 深圳 IMWEB  PPT: [浅谈 Node.js 应用性能调优与线上故障定位](https://github.com/hyj1991/talks/blob/master/0x02_%E6%B5%85%E8%B0%88%20Node.js%20%E5%BA%94%E7%94%A8%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E4%B8%8E%E7%BA%BF%E4%B8%8A%E6%95%85%E9%9A%9C%E5%AE%9A%E4%BD%8D.pdf)
